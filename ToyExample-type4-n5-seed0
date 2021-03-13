@@ -1,0 +1,10 @@
+Galois Field : GF(2)
+Number of variables (n) : 5
+Number of polynomials (m) : 3
+Seed : 0
+Order : graded reverse lex order
+
+*********************
+0 0 1 0 1 0 1 1 0 1 0 1 0 0 1 1 0 1 0 1 1 ;
+1 0 1 0 0 1 1 1 1 0 1 0 0 1 0 0 0 0 0 1 1 ;
+0 1 0 1 0 0 0 0 1 0 1 1 1 1 1 0 1 1 0 0 0 ;

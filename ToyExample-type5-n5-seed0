@@ -1,0 +1,10 @@
+Galois Field : GF(2)[x] / x^8 + x^4 + x^3 + x^2 + 1
+Number of variables (n) : 5
+Number of polynomials (m) : 3
+Seed : 0
+Order : graded reverse lex order
+
+*********************
+5c 04 77 b5 da 94 a3 ff bc 0e 68 f4 99 7b dc d1 a1 e0 4a 76 aa ;
+f8 5f 69 65 fb 4d aa 47 8e ed 42 b1 f0 69 c9 31 17 02 6c f7 d9 ;
+9f 0e e5 21 31 d1 49 74 93 bb ba 11 20 db ed 2f 47 86 6b fd 5d ;
