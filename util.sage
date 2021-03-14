@@ -51,7 +51,7 @@ else:
     for row in polynomials.rows():
         equations.append(row[0])
     equations_str = list(map(str, equations))
-with open('equations.txt', 'w') as file:
+with open(inputfile_name + ".txt", 'w') as file:
     file.write("Base field: %s\n" % str(base_field))
     file.write("Modulus: %s\n" % str(base_field.modulus()))
     for eq in equations_str:

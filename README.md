@@ -1,4 +1,4 @@
-# Decode the Fukuoka MQ Challenge Systems into the Sage MQ Polynomials Systems
+# Decode the Fukuoka MQ Challenge Systems into the SageMath MQ Polynomial Systems
 
 ## Usage
 
